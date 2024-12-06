@@ -1,0 +1,9 @@
+<div class="container">
+    @for(productObj of productsArray; track productObj.id) {
+        <!-- <app-product-card [product]="productObj" (warnProductCatalog)="warnParentAboutItemAddition($event)"></app-product-card> -->
+        <app-product-card [product]="productObj"></app-product-card>
+    } 
+    @empty {
+         <app-product-card></app-product-card>
+    <app-product-card></app-product-card>  }
+</div>

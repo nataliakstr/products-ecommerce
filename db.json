@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Aphrodite",
+      "category": "engagement ring",
+      "imageLink": "https://www.brereton.ie/images/0-61ct-g-vs1-round-six-claw-natural-diamond-solitaire-engagement-ring-channel-set-diamond-shoulders-p788-1491_medium.jpg",
+      "price": 2250,
+      "description": "0.61ct G vs1 Round Six Claw Natural Diamond Solitaire Engagement Ring, Channel Set Diamond Shoulders",
+      "availableInStock": 5
+    },
+    {
+      "id": "2",
+      "title": "Isis",
+      "category": "engagement ring",
+      "imageLink": "https://www.brereton.ie/images/1-04ct-platinum-natural-cushion-cut-diamond-solitaire-engagement-ring-p211-492_medium.jpg",
+      "price": 8990,
+      "description": "1.04ct Platinum Natural Cushion Cut Diamond Solitaire Engagement Ring",
+      "availableInStock": 3
+    },
+    {
+      "id": "3",
+      "title": "Lakshmi",
+      "category": "dress ring",
+      "imageLink": "https://www.brereton.ie/images/0-16ct-platinum-channel-set-diamond-wedding-band-p639-1239_thumb.jpg",
+      "price": 995,
+      "description": "Yellow & White Gold Cubic Zircona Twist Dress Ring",
+      "availableInStock": 10
+    },
+    {
+      "id": "4",
+      "title": "Artemis",
+      "category": "dress ring",
+      "imageLink": "https://www.brereton.ie/images/18ct-yellow-gold-1-35ct-ruby-0-51ct-diamond-eternity-ring-p1063-2121_medium.jpg",
+      "price": 2275,
+      "description": "18ct Yellow Gold 1.35ct Ruby & 0.51ct Diamond Eternity Ring",
+      "availableInStock": 10
+    },
+    {
+      "id": "5",
+      "title": "Freya",
+      "category": "dress ring",
+      "imageLink": "https://www.brereton.ie/images/sapphire-18ct-gold-antique-oval-cluster-ring-p1746-4060_medium.jpg",
+      "price": 2500,
+      "description": "Sapphire 18ct Gold Antique Oval Cluster Ring",
+      "availableInStock": 6
+    },
+    {
+      "id": "6",
+      "title": "Hera ",
+      "category": "dress ring",
+      "imageLink": "https://www.brereton.ie/images/vintage-diamond-1-20ct-gold-cluster-ring-p1559-3680_medium.jpg",
+      "price": 2550,
+      "description": "Antique Diamond 1.20ct Navette Ring",
+      "availableInStock": 5
+    },
+    {
+      "id": "7",
+      "title": "Demeter",
+      "category": "dress ring",
+      "imageLink": "https://www.brereton.ie/images/2-75ct-natural-diamond-vintage-cocktail-ring-in-platinum-p1766-4091_medium.jpg",
+      "price": 3950,
+      "description": "2.75ct Natural Diamond Vintage Cocktail Ring in Platinum",
+      "availableInStock": 0
+    },
+    {
+      "id": "8",
+      "title": "Sekhmet",
+      "category": "engagement ring",
+      "imageLink": "https://www.brereton.ie/images/natural-diamond-square-shape-halo-engagement-ring-p1758-4081_medium.jpg",
+      "price": 4250,
+      "description": "Natural Diamond Square Shape Halo Engagement Ring",
+      "availableInStock": 3
+    },
+    {
+      "id": "9",
+      "title": "Athena",
+      "category": "dress ring",
+      "imageLink": "https://www.brereton.ie/images/art-deco-style-sapphire-and-diamond-platinum-target-ring-p1769-4095_medium.jpg",
+      "price": 9500,
+      "description": "Art Deco Style Sapphire and Diamond Platinum Target Ring",
+      "availableInStock": 2
+    },
+    {
+      "id": "10",
+      "title": "Persephone",
+      "category": "dress ring",
+      "imageLink": "https://www.brereton.ie/images/0-86ct-morganite-0-15ct-diamond-platinum-halo-ring-p2192-5364_medium.jpg",
+      "price": 3770,
+      "description": "0.86ct Morganite & 0.15ct Diamond Platinum Halo Ring",
+      "availableInStock": 1
+    },
+    {
+      "id": "36cf",
+      "title": "Gaia",
+      "category": "engagement ring",
+      "imageLink": "https://www.brereton.ie/images/0-86ct-f-vs-natural-diamond-round-cut-with-shoulders-18ct-gold-halo-ring-p2427-6067_medium.jpg",
+      "price": 8000,
+      "description": "0.86ct F / VS Natural Diamond Round Cut, with Shoulders 18ct Gold Halo Ring",
+      "availableInStock": 2
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@admin.com",
+      "password": "admin123"
+    }
+  ]
+}

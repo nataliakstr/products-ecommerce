@@ -1,0 +1,21 @@
+<mat-toolbar>
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span>{{ title }}</span>
+    <span class="example-spacer"></span>
+    <div>
+      <a mat-button routerLink="/">Products Catalog</a>
+      <a mat-button routerLink="/form"> + New Product</a>
+      @if (userIsAuthenticated()) {
+        <a mat-button (click)="logout()">Logout</a>
+      }
+      @else {
+        <a mat-button routerLink="/login">Login</a>
+      }
+    </div>
+    
+    <button (click)="openCart()" mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+      <mat-icon>shopping_cart</mat-icon>
+    </button>
+</mat-toolbar>
